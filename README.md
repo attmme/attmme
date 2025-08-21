@@ -1,18 +1,9 @@
 # 👋 Hi there, I'm Oscar
 
-<a href="https://www.linkedin.com/in/oscar-gomez-bcn/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/attmme" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.codewars.com/users/atme" target="_blank">
-  <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
-</a>
-<a href="https://tryhackme.com/p/atme" target="_blank">
-  <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
+[<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" width="120"/>](https://www.linkedin.com/in/oscar-gomez-bcn/)
+[<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" width="120"/>](https://github.com/attmme)
+[<img src="https://img.shields.io/badge/-Codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" width="120"/>](https://www.codewars.com/users/atme)
+[<img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" width="120"/>](https://tryhackme.com/p/atme)
 
 ---
 
@@ -43,7 +34,7 @@ In the long term, I aim to pursue new opportunities abroad — particularly in *
 
 ## > Endpoint & EDR
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Crowdstrike-ED1C24?&style=for-the-badge&logo=Crowdstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/-SentinelOne-00ADEF?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
 </div>
@@ -65,6 +56,7 @@ In the long term, I aim to pursue new opportunities abroad — particularly in *
   <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/-Opsgenie-0072C6?&style=for-the-badge&logo=Opsgenie&logoColor=white" />
 </div>
+
 
 &nbsp;
 
