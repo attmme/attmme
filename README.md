@@ -1,9 +1,18 @@
 # 👋 Hi there, I'm Oscar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-gomez-bcn/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/attmme)
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/atme)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/atme)
+<a href="https://www.linkedin.com/in/oscar-gomez-bcn/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/attmme" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.codewars.com/users/atme" target="_blank">
+  <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+</a>
+<a href="https://tryhackme.com/p/atme" target="_blank">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
 
 ---
 
