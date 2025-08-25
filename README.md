@@ -66,6 +66,15 @@ In the long term, I aim to pursue new opportunities abroad — particularly in *
   <img src="https://img.shields.io/badge/-Opsgenie-0072C6?&style=for-the-badge&logo=Opsgenie&logoColor=white" />
 </div>
 
+&nbsp;
+
+## 🚀 Skills & projects
+
+| Skill                                               | Associated Project                                                                 |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Wazuh SIEM deployment with AWS                      | <a href="https://github.com/attmme/Wazuh-SIEM-AWS-deploy">Wazuh deployment lab</a> |
+| Endpoint monitoring and attack detection with Wazuh | Wazuh monitoring lab |
+| Security Automation with Shuffle SOAR               | Shuffle SOAR lab |
 
 &nbsp;
 
