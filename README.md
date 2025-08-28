@@ -73,8 +73,8 @@ In the long term, I aim to pursue new opportunities abroad — particularly in *
 | Skill                                               | Associated Project                                                                 |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Wazuh SIEM deployment with AWS                      | <a href="https://github.com/attmme/Wazuh-SIEM-AWS-deploy">Wazuh deployment lab</a> |
-| Endpoint monitoring and attack detection with Wazuh | Wazuh monitoring lab |
-| Security Automation with Shuffle SOAR               | Shuffle SOAR lab |
+| Endpoint monitoring and attack detection with Wazuh | Wazuh monitoring lab (future project) |
+| Security Automation with Shuffle SOAR               | Shuffle SOAR lab (future project) |
 
 &nbsp;
 
